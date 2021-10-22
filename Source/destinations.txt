@@ -1,0 +1,4 @@
+D1, Sydney, 150, 30
+D2, Geelong, 170, 20
+D3, Adelaide, 60, 50
+D4, Brisbane, 70, 10
